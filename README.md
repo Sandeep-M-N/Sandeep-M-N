@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Changepond Technologies
-- 🌱 I’m currently learning python-FullStack Development
+- 🌱 I’m currently learning generative Ai
 <!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Java & python Technologies
